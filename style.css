@@ -43,8 +43,6 @@ a {
     align-items: center;
 }
 
-.leftbody {
-}
 
 .title {
     font-size: 48px;
@@ -52,7 +50,7 @@ a {
     color: #f9faf8;
 }
 
-p {
+.pfirst {
     font-size: 18px;
     color: #f9faf8;
 }
@@ -74,4 +72,25 @@ img {
    max-height: 300px;
    margin-right: 220px;
    width: 500px;
+}
+
+h2 {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;   
+    text-align: center;
+}
+
+.fourboxes {
+    color: #1F2937;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+}
+
+.box {
+    border: 5px solid #3882f6;
+    height: 150px;
+    width: 150px;
+    border-radius: 25px;
 }
