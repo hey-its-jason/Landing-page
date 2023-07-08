@@ -79,6 +79,7 @@ h2 {
     font-weight: 900;
     color: #1F2937;   
     text-align: center;
+    margin: 40px;
 }
 
 .fourboxes {
@@ -86,6 +87,7 @@ h2 {
     font-size: 18px;
     display: flex;
     justify-content: center;
+    gap: 50px;
 }
 
 .box {
@@ -93,4 +95,29 @@ h2 {
     height: 150px;
     width: 150px;
     border-radius: 25px;
+}
+
+.secondsection {
+    margin: 50px;
+    text-align: center;
+}
+
+ .thirdsection {
+    background-color: #E5E7EB;
+    padding: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+ }
+
+ span {
+    font-size: 36px;
+    color: #1F2937;
+    font-style: italic;
+}
+
+.pthird {
+    align-self: flex-end;
+    margin-right: 450px;
+    font-weight: 900;
 }
