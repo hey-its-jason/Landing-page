@@ -19,6 +19,7 @@
     font-size: 24px;
     color: #f9faf8;
     margin: 10px;
+    font-weight: 900;
 }
 
 ul {
@@ -104,10 +105,11 @@ h2 {
 
  .thirdsection {
     background-color: #E5E7EB;
-    padding: 150px;
+    padding: 150px 100px;
     display: flex;
     flex-direction: column;
     align-items: center; 
+    
  }
 
  span {
@@ -156,6 +158,16 @@ h4 {
 
 .pfourth {
     font-size: 20px;
+}
+
+.footer {
+    background-color: #1f2937;
+    display: flex;
+    justify-content: center;
+    color: #f9faf8;
+    font-size: 24px;
+    height: 150px;
+    align-items: center;
 }
 
 
